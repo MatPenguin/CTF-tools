@@ -3,12 +3,14 @@
 # List:
 
 ## Cryptography:
-### Cryptools
-### Decode: https://www.dcode.fr/en
+##### Cryptools
+##### [Decode](https://www.dcode.fr/en)
+##### [Hex Editor](https://hexed.it)
+
     
 ## Steganography:
-### Morse Code: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
-### Picture: https://stylesuxx.github.io/steganography/
+##### [Morse Code](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+##### [Picture](https://stylesuxx.github.io/steganography/)
 
 
 ## Reverse Engineering:
@@ -18,6 +20,8 @@
 ### 
 
 ## CTF training:
-### PicoCTF: https://picoctf.org
+##### [PicoCTF](https://picoctf.org)
 
-## 
+## To Learn new stuff
+##### [TryHackMe](https://tryhackme.com/paths)
+##### [W3Schools](https://www.w3schools.com)
