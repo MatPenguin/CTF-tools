@@ -4,7 +4,7 @@
 
 ## Cryptography:
 ### Cryptools
-    decode: https://www.dcode.fr/en
+### Decode: https://www.dcode.fr/en
     
 ## Steganography:
 ### Morse Code: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
